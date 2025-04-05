@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijyydv547" alt="abhijyydv547" /></a> </p>
 
-- 🔭 I’m currently working on **Task Manager App**
+- 🔭 I’m currently working on **Chatty-the chat app**
 
 - 🌱 I’m currently learning **Devops,Web3**
 
-- 👯 I’m looking to collaborate on **AI Resume Builder**
+- 👯 I’m looking to collaborate on **2D Metaverse App**
 
 - 💬 Ask me about **Next js,Docker,**
 
