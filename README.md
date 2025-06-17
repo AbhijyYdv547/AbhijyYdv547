@@ -58,7 +58,7 @@
 | Project | Description |
 |--------|-------------|
 | 🚀 [**NeuroNote**](https://github.com/AbhijyYdv547/NeuroNote) | AI-powered collaborative notes with Tiptap, Hocuspocus & Gemini |
-| 🧾 [**ResumeBuilder**](https://github.com/AbhijyYdv547/ResumeBuilder) | Resume builder using React PDF + Gemini API |
+| 🧾 [**ResumeBuilder**](https://resume-builder-ivory-nine.vercel.app) | Resume builder using React PDF + Gemini API |
 | 🎨 [**CollabCanvas**](https://github.com/AbhijyYdv547/Canvas-app) | Real-time collaborative whiteboard using WebSockets |
 
 ---
