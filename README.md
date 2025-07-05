@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=AbhijyYdv547&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ZIttcdSHbHfyenQqU8ALoQJ5rpHEQ2fd/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -60,6 +69,21 @@
 | 🚀 [**NeuroNote**](https://github.com/AbhijyYdv547/NeuroNote) | AI-powered collaborative notes with Tiptap, Hocuspocus & Gemini |
 | 🧾 [**ResumeBuilder**](https://resume-builder-ivory-nine.vercel.app) | Resume builder using React PDF + Gemini API |
 | 🎨 [**CollabCanvas**](https://github.com/AbhijyYdv547/Canvas-app) | Real-time collaborative whiteboard using WebSockets |
+
+---
+
+### 🖼️ Project Previews (Replace with actual GIFs or screenshots)
+
+#### 🚀 CollabCanvas
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33e55300-b345-4551-870b-7c22c42bd056" width="600" />
+</p>
+
+
+#### 🧾 ResumeBuilder
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6214baa-c669-48f7-aff1-34d15dc15bef" width="600" />
+</p>
 
 ---
 
