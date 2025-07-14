@@ -9,7 +9,7 @@
   <a href="https://github.com/AbhijyYdv547/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1ZIttcdSHbHfyenQqU8ALoQJ5rpHEQ2fd/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1AVA8EMPnziz6XAfmy0xpu1Yh0dqyRC0b/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
   </a>
 </p>
