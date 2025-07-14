@@ -74,6 +74,12 @@
 
 ### 🖼️ Project Previews (Replace with actual GIFs or screenshots)
 
+#### 🚀 NeuroNote
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e770269d-3455-4555-80ce-80ccc4c2f1d4" width="600" />
+</p>
+
+
 #### 🚀 CollabCanvas
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33e55300-b345-4551-870b-7c22c42bd056" width="600" />
