@@ -72,7 +72,7 @@
 
 ---
 
-### 🖼️ Project Previews (Replace with actual GIFs or screenshots)
+### 🖼️ Project screenshots
 
 #### 🚀 NeuroNote
 <p align="center">
