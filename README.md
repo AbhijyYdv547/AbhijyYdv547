@@ -72,26 +72,31 @@
 
 ---
 
-### 🖼️ Project screenshots
+### 🖼️ Project Screenshots
 
-#### 🚀 NeuroNote
+<details>
+<summary>🚀 <strong>NeuroNote</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e770269d-3455-4555-80ce-80ccc4c2f1d4" width="600" />
+  <img src="https://github.com/user-attachments/assets/e770269d-3455-4555-80ce-80ccc4c2f1d4" width="600"/>
 </p>
+</details>
 
-
-#### 🚀 CollabCanvas
+<details>
+<summary>🎨 <strong>CollabCanvas</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33e55300-b345-4551-870b-7c22c42bd056" width="600" />
+  <img src="https://github.com/user-attachments/assets/33e55300-b345-4551-870b-7c22c42bd056" width="600"/>
 </p>
+</details>
 
-
-#### 🧾 ResumeBuilder
+<details>
+<summary>🧾 <strong>ResumeBuilder</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6214baa-c669-48f7-aff1-34d15dc15bef" width="600" />
+  <img src="https://github.com/user-attachments/assets/c6214baa-c669-48f7-aff1-34d15dc15bef" width="600"/>
 </p>
+</details>
 
 ---
+
 
 ### 📊 GitHub Stats
 
