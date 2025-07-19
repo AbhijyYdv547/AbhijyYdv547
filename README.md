@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 🔨 Building: **[NeuroNote](https://github.com/AbhijyYdv547/NeuroNote)** — AI-powered collaborative note-taking tool
+- 🔨 Currently working on: Dockerizing NeuroNote — an AI-powered collaborative note-taking tool, and building my personal portfolio site
 - 🌱 Learning: **DevOps**, **LLM apps**, and **Machine Learning**
 - 🤝 Open to collabs: **AI Integrations**, **AI tools**, and **infra-heavy systems**
 - 💬 I love chatting about: `Next.js`, `Docker`, `WebSockets`, `LLMs`, `Tiptap`, and `Prisma`
