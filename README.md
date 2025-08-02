@@ -39,6 +39,9 @@
   <a href="https://dev.to/abhijay_yadav_712e10ab036" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/ydv_abhijay_21" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
