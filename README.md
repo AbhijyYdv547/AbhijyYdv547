@@ -85,18 +85,20 @@
 </details>
 
 <details>
+<summary>🧾 <strong>ResumeBuilder</strong></summary>
+<p align="center">
+  <img width="1366" height="3278" alt="screencapture-resume-builder-ivory-nine-vercel-app-2025-08-08-01_28_04" src="https://github.com/user-attachments/assets/072fad46-64c4-44db-bec7-b4bf63f289d6" />
+
+</p>
+</details>
+
+<details>
 <summary>🎨 <strong>CollabCanvas</strong></summary>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33e55300-b345-4551-870b-7c22c42bd056" width="600"/>
 </p>
 </details>
 
-<details>
-<summary>🧾 <strong>ResumeBuilder</strong></summary>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c6214baa-c669-48f7-aff1-34d15dc15bef" width="600"/>
-</p>
-</details>
 
 ---
 
