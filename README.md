@@ -2,10 +2,6 @@
 <h3 align="center">Full-Stack Developer | Real-time App Enthusiast | DevOps & AI Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijyYdv547&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <a href="https://portfolio1-two-xi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -18,12 +14,12 @@
 
 ### About Me
 
-- Currently working on: Deploying NeuroNote — an AI-powered collaborative note-taking tool, and building my personal portfolio site
-- Learning: **DevOps**, **LLM apps**, and **Machine Learning**
-- Open to collabs: **AI Integrations**, **AI tools**, and **infra-heavy systems**
-- I love chatting about: `Next.js`, `Docker`, `WebSockets`, `LLMs`, `Tiptap`, and `Prisma`
+- Currently working on: Revamping the UI of NeuroNote — an AI-powered collaborative note-taking tool, and building my personal portfolio site
+- Learning: DevOps, Golang, and Machine Learning
+- Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
+- Love geeking out about: Next.js, Docker, WebSockets, LLMs, Tiptap, and Prisma
 - Contact me: `yadavabhijay@gmail.com`
-- Fun fact: I prototype wild ideas for fun — sci-fi meets software 🚀
+- Fun fact: I prototype wild ideas for fun — sci-fi meets software 
 
 ---
 
