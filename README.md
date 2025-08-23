@@ -5,7 +5,7 @@
   <a href="https://portfolio1-two-xi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1AVA8EMPnziz6XAfmy0xpu1Yh0dqyRC0b/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1FjzrYonbQfxyJTAEPWEELPeVO1MWdCfK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Currently working on: Revamping the UI of NeuroNote — an AI-powered collaborative note-taking tool, and building my personal portfolio site
+- Currently working on: CodeSnipVault -> a web application for managing and sharing code snippets using Go and NextJS
 - Learning: DevOps, Golang, and Machine Learning
 - Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
 - Love geeking out about: Next.js, Docker, WebSockets, LLMs, Tiptap, and Prisma
@@ -65,7 +65,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**NeuroNote**](https://github.com/AbhijyYdv547/NeuroNote) | AI-powered collaborative notes with Tiptap, Hocuspocus & Gemini |
+| [**NeuroNote**](https://neuro-note-web.vercel.app/) | AI-powered collaborative notes with Tiptap, Hocuspocus & Gemini |
 | [**ResumeBuilder**](https://resume-builder-frontend-beta.vercel.app/) | Resume builder using React PDF + Gemini API |
 | [**CollabCanvas**](https://github.com/AbhijyYdv547/Canvas-app) | Real-time collaborative whiteboard using WebSockets |
 
