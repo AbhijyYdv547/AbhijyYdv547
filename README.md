@@ -46,12 +46,12 @@
 
 #### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,java,py" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,java,go" />
 </p>
 
 #### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,docker" />
 </p>
 
 #### Tools & Platforms
