@@ -17,7 +17,7 @@
 - Currently working on: CodeSnipVault -> a web application for managing and sharing code snippets using Go and NextJS
 - Learning: DevOps, Golang, and Machine Learning
 - Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
-- Love geeking out about: Next.js, Docker, WebSockets, LLMs, Tiptap, and Prisma
+- Love geeking out about: Next.js, Docker, WebSockets, LLMs, Golang, and Prisma
 - Contact me: `yadavabhijay@gmail.com`
 - Fun fact: I prototype wild ideas for fun — sci-fi meets software 
 
