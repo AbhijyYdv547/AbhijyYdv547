@@ -8,6 +8,9 @@
   <a href="https://drive.google.com/file/d/1FjzrYonbQfxyJTAEPWEELPeVO1MWdCfK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
   </a>
+  <a href="https://wry-bathtub-dc1.notion.site/Abhijay-Yadav-Notion-Portfolio-251629f831cc804d9a43e6182734ddb3" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </p>
 
 ---
