@@ -82,15 +82,14 @@
 <details>
 <summary><strong>NeuroNote</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e770269d-3455-4555-80ce-80ccc4c2f1d4" width="600"/>
+  <img src="https://github.com/user-attachments/assets/1bc58a84-b7ed-4663-9891-1cbe1c70abf8" width="600"/>
 </p>
 </details>
 
 <details>
 <summary><strong>ResumeBuilder</strong></summary>
 <p align="center">
-  <img width="1366" height="3278" alt="screencapture-resume-builder-ivory-nine-vercel-app-2025-08-08-01_28_04" src="https://github.com/user-attachments/assets/072fad46-64c4-44db-bec7-b4bf63f289d6" />
-
+  <img width="600" alt="rb" src="https://github.com/user-attachments/assets/de0c5715-42a6-4bc6-9853-5fa3882ff0fb" />
 </p>
 </details>
 
