@@ -5,7 +5,7 @@
   <a href="https://portfolio1-two-xi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1FjzrYonbQfxyJTAEPWEELPeVO1MWdCfK/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1wcHgnSDUU2X5TsXkx2OoreidBPCI6ZyC/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
   </a>
   <a href="https://wry-bathtub-dc1.notion.site/Abhijay-Yadav-Notion-Portfolio-251629f831cc804d9a43e6182734ddb3" target="_blank">
@@ -52,17 +52,19 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,java,go" />
 </p>
 
-#### Backend & Database
+#### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,docker" />
 </p>
 
 #### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" />
 </p>
 
+
 ---
+
 
 ### Featured Projects
 
@@ -70,7 +72,8 @@
 |--------|-------------|
 | [**NeuroNote**](https://neuro-note-web.vercel.app/) | AI-powered collaborative notes with Tiptap, Hocuspocus & Gemini |
 | [**ResumeBuilder**](https://resume-builder-frontend-beta.vercel.app/) | Resume builder using React PDF + Gemini API |
-| [**CollabCanvas**](https://github.com/AbhijyYdv547/Canvas-app) | Real-time collaborative whiteboard using WebSockets |
+| [**CodeSnipVault**](https://code-snip-vault.vercel.app/) | Full-stack code snippet manager with JWT auth, search/filter, and sharable links |
+
 
 ---
 
@@ -92,9 +95,9 @@
 </details>
 
 <details>
-<summary><strong>CollabCanvas</strong></summary>
+<summary><strong>CodeSnipVault</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33e55300-b345-4551-870b-7c22c42bd056" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b908a204-4cb9-4bdc-8de5-d1b6f3a1774c" width="600"/>
 </p>
 </details>
 
