@@ -17,7 +17,7 @@
 
 ### About Me
 
-- Currently working on: CodeSnipVault -> a web application for managing and sharing code snippets using Go and NextJS
+- Currently working on: Devops and Testing of CodeSnipVault
 - Learning: DevOps, Golang, and Machine Learning
 - Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
 - Love geeking out about: Next.js, Docker, WebSockets, LLMs, Golang, and Prisma
@@ -54,12 +54,12 @@
 
 #### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,redis,docker" />
 </p>
 
 #### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws,render" />
 </p>
 
 
