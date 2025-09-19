@@ -20,9 +20,9 @@
 - Currently working on: Devops and Testing of CodeSnipVault
 - Learning: DevOps, Golang, and Machine Learning
 - Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
-- Love geeking out about: Next.js, Docker, WebSockets, LLMs, Golang, and Prisma
+- Love geeking out about: Next.js, Docker, WebSockets, LLMs and Golang
 - Contact me: `yadavabhijay@gmail.com`
-- Fun fact: I prototype wild ideas for fun — sci-fi meets software 
+- Fun fact: I prototype wild ideas for fun
 
 ---
 
@@ -49,18 +49,24 @@
 
 #### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,java,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,go" />
 </p>
 
 #### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,redis" />
 </p>
 
 #### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws,render" />
 </p>
+
+#### DevOps & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,docker,githubactions,eslint,prettier" />
+</p>
+
 
 
 ---
