@@ -5,7 +5,7 @@
   <a href="https://portfolio1-two-xi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1wcHgnSDUU2X5TsXkx2OoreidBPCI6ZyC/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Za2sqmtVcH55V6K1Vo8_n5OPlN5vdDYP/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
   </a>
   <a href="https://wry-bathtub-dc1.notion.site/Abhijay-Yadav-Notion-Portfolio-251629f831cc804d9a43e6182734ddb3" target="_blank">
@@ -17,7 +17,7 @@
 
 ### About Me
 
-- Currently working on: Devops and Testing of CodeSnipVault
+- Currently working on: ML using Scikit-learn and DSA using Java
 - Learning: DevOps, Golang, and Machine Learning
 - Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
 - Love geeking out about: Next.js, Docker, WebSockets, LLMs and Golang
