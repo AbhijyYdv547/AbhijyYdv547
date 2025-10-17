@@ -17,7 +17,7 @@
 
 ### About Me
 
-- Currently working on: ML using Scikit-learn and DSA using Java
+- Currently working on: ML using Pytorch and DSA using Java
 - Learning: DevOps, Golang, and Machine Learning
 - Open to collabs on: AI integrations, AI-first tools, and infra-heavy systems
 - Love geeking out about: Next.js, Docker, WebSockets, LLMs and Golang
@@ -88,7 +88,7 @@
 <details>
 <summary><strong>NeuroNote</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1bc58a84-b7ed-4663-9891-1cbe1c70abf8" width="600"/>
+  <img src="https://github.com/user-attachments/assets/d11b4799-cde6-435f-9029-615ee3b68f07" width="600"/> 
 </p>
 </details>
 
@@ -102,7 +102,7 @@
 <details>
 <summary><strong>CodeSnipVault</strong></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b908a204-4cb9-4bdc-8de5-d1b6f3a1774c" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6fcccb98-bed8-48c2-a4ea-3e5b4c31deac" width="600"/> 
 </p>
 </details>
 
